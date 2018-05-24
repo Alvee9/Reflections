@@ -1,0 +1,6 @@
+git log = list of commits
+
+git checkout = checks out to a particular commit
+
+git status = list of the untracked files in the repository or changed files after the last commit
+
